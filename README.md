@@ -56,4 +56,4 @@ I am a Front End Developer Enthusiast <img src="https://media.giphy.com/media/3r
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-karel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karel-trisnanto-utomo-8564ba259/)
