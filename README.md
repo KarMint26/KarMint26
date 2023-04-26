@@ -16,9 +16,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" >
 </div>
 
-<h1 align="center"> Hi there 👋 </h1>
-<h3 align="center"> I'am Front End Developer enthusiast <h3>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/karel-trisnanto-utomo-8564ba259/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -32,7 +29,18 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Instagram-orangered?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+
+<br>
   
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=KarMint26&style=flat-square&color=blue" alt="komarev"/>  
+</div>
+
+<br>
+
+<h1 align="center"> Hi there 👋 </h1>
+<h3 align="center"> I'am Front End Developer enthusiast <h3>
+  
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
