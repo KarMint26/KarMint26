@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 <h3 align="center"> I'am Front End Developer enthusiast <h3>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/karel-trisnanto-utomo-8564ba259/">
+  <a href="https://www.linkedin.com/in/karel-trisnanto-utomo-8564ba259/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   &nbsp
-  <a href="https://github.com/KarMint26">
+  <a href="https://github.com/KarMint26" target="_blank">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
   &nbsp
-  <a href="https://www.instagram.com/foxy_foxh/">
+  <a href="https://www.instagram.com/foxy_foxh/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-orangered?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
