@@ -32,3 +32,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Instagram-orangered?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+  
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KarMint26&style=flat-square&color=blue" alt="komarev"/>  
+</div>
