@@ -19,13 +19,15 @@ Here are some ideas to get you started:
 <h1 align="center"> Hi there 👋 </h1>
 <h3 align="center"> I'am Front End Developer enthusiast <h3>
 
-<div id="badges" align="center" style="display: flex; gap: 1rem;">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  &nbsp
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
+  &nbsp
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Instagram-orangered?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
