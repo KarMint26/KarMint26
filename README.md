@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Hi there 👋 </h1>
 <h3 align="center"> I'am Front End Developer enthusiast <h3>
 
-<div id="badges" align="center">
+<div id="badges" align="center" style="display: flex; gap: 1rem;">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
