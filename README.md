@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 <br>
 
 <h1 align="center"> Hi there 👋 </h1>
-<h3 align="center"> I'am Front End Developer enthusiast <h3>
+<h3 align="center"> I'am Front End Developer Enthusiast <h3>
   
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
   
-### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+### :man_technologist: About Me :
+I am a Front End Developer Enthusiast <img src="https://media.giphy.com/media/3rTUAjzVs1eEtGpkJp/giphy.gif" width="30"> from Indonesia.
