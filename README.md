@@ -26,6 +26,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-violet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
