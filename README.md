@@ -79,3 +79,9 @@ I am a Front End Developer Enthusiast <img src="https://media.giphy.com/media/3r
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
 </div>
+
+---
+  
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KarMint26&theme=dark&background=000000)](https://git.io/streak-stats)
