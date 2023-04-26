@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+---
   
 ### :man_technologist: About Me :
 I am a Front End Developer Enthusiast <img src="https://media.giphy.com/media/3rTUAjzVs1eEtGpkJp/giphy.gif" width="30"> from Indonesia.
@@ -57,3 +59,7 @@ I am a Front End Developer Enthusiast <img src="https://media.giphy.com/media/3r
 - :zap: In my free time, I learn about more technology in front end ecosystem.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-karel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karel-trisnanto-utomo-8564ba259/)
+  
+---
+
+### :hammer_and_wrench: Languages and Tools :
