@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ---
   
 ### :man_technologist: About Me :
-I am a Front End Developer Enthusiast <img src="https://media.giphy.com/media/3rTUAjzVs1eEtGpkJp/giphy.gif" width="30"> from Indonesia.
+I am a Front End Web Developer Enthusiast <img src="https://media.giphy.com/media/3rTUAjzVs1eEtGpkJp/giphy.gif" width="30"> from Indonesia.
   
 - 🦅: I’m a student majoring in informatics engineering who is very interested in the world of programming.
 
