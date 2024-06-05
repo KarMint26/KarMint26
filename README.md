@@ -56,7 +56,7 @@ I am a Fullstack Web Developer <img src="https://media.giphy.com/media/3rTUAjzVs
 
 - :seedling: Exploring Web Developer Technology and Tools.
 
-- :zap: In my free time, I learn about more technology in front end ecosystem.
+- :zap: In my free time, I learn about more technology in web development ecosystem.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-karel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karel-trisnanto-utomo-8564ba259/)
   
